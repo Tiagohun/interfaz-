@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>PASEO DE MASCOTAS</title>
+        <meta charset="UTF-8">
+        <meta name="PASEO DE PERROS" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <form name="form" method="post" action="perritoRecibe.jsp"> 
+            <table>
+                <p> costo de paseo segun el tamaño de tu perro: grande:10000 mediano:5000 pequeño:3000  <br></p>
+                <p> 1.grande 2.mediano 3.pequeño <input type="text" name="respuesta"> <br></p>
+            <input type="submit" value="enviar respuesta">
+            
+    </body>
+        
+</html>
